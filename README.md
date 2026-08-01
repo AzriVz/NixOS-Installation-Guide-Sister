@@ -1,2 +1,2 @@
 # NixOS-Installation-Guide-Sister
-Demo YouTube link: https://youtu.be/oAkQe0mf-7M
+YouTube link demo: https://youtu.be/oAkQe0mf-7M
